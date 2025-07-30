@@ -30,7 +30,7 @@ const ATS: React.FC<ATSProps> = ({ score, suggestions }) => {
     ? 'Great Job!'
     : score > 49
       ? 'Good Start'
-      : 'Needs Improvemental';
+      : 'Needs Improvemental ';
 
   return (
     <div className={`bg-gradient-to-b ${gradientClass} to-white rounded-2xl shadow-md w-full p-6`}>
