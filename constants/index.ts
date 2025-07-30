@@ -1,6 +1,6 @@
 export const resumes: Resume[] = [
     {
-        id: "2",
+        id: "1",
         companyName: "Google",
         jobTitle: "Frontend Developer",
         imagePath: "/images/resume_01.png",
