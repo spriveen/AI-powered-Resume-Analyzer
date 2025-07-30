@@ -7,7 +7,7 @@ const Navbar = () => {
                 <p className="text-2xl font-bold text-gradient">CVScanPro</p>
             </Link>
             <Link to="/upload" className="primary-button w-fit">
-                Upload Resume
+                Attach Resume
             </Link>
         </nav>
     )
